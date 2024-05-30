@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(255, 106, 0);
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    width: 180px;
+    padding-TOP: 5px;
+    padding-left: 5PX;
+}
+.navitems ul{
+    display: flex;
+
+
+}
+
+.navitems li{
+    list-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20PX;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}

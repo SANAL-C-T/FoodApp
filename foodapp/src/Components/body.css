@@ -1,0 +1,30 @@
+.search{
+   padding-left: 50px;
+   padding-top: 20px;
+}
+
+.restCard{
+margin: 20px;
+padding:10px;
+background-color: rgb(255, 162, 62);
+width: 200px;
+height: 300px;
+
+}
+
+.restCard:hover{
+   
+    background-color: rgb(245, 101, 44);
+ cursor: pointer;
+    
+    }
+
+.restCard img{
+    width: 180px;
+    height: 180px;
+}
+
+.restroContainer{
+    display:flex;
+    flex-wrap: wrap;
+}
